@@ -28,3 +28,7 @@ Maui9 is made to be shared, within reason.
 ❌ **Modifying** the source code does not change this agreement. 
 
 ### Consultancy Licence
+✅ A single lisence must be purchased per domain (see corporate licence).  
+
+### Implementation Licence
+✅ If an implementation is done by a registered Maui9 Partner, license fee is in the implementation price (see corporate licence).  
