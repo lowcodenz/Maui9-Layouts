@@ -4,7 +4,7 @@
 
 Maui9 is made to be shared, within reason.
 
-### Friends Licence
+### Friends License
 
 ✅ May be used by unlimited applications within a single domain.  
 ✅ Can only be used for **non-commercial** projects.  
@@ -16,7 +16,7 @@ Maui9 is made to be shared, within reason.
 ❌ Reusing code to replicate a similar or competing service.  
 ❌ **Modifying** the source code does not change this agreement. 
 
-### Corporate Licence
+### Corporate License
 
 ✅ May be used by unlimited applications within a single domain.  
 ✅ Can be used for **commercial** and **non-commercial** projects.  
@@ -27,8 +27,8 @@ Maui9 is made to be shared, within reason.
 ❌ Reusing code to replicate a similar or competing service.  
 ❌ **Modifying** the source code does not change this agreement. 
 
-### Consultancy Licence
-✅ A single lisence must be purchased per domain (see corporate licence).  
+### Consultancy License
+✅ A single lisence must be purchased per domain (see Corporate License).  
 
-### Implementation Licence
-✅ If an implementation is done by a registered Maui9 Partner, license fee is in the implementation price (see corporate licence).  
+### Implementation License
+✅ If an implementation is done by a registered Maui9 Partner, License fee is in the implementation price (see Corporate License).  
