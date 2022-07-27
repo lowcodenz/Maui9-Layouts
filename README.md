@@ -27,7 +27,7 @@ Maui9 is made to be shared, within reason.
 ❌ Reusing code to replicate a similar or competing service.  
 ❌ **Modifying** the source code does not change this agreement. 
 
-### Consultancy License
+### Consultancy/Agency/Partner License
 ✅ A single lisence must be purchased per domain (see Corporate License).  
 
 ### Implementation License
