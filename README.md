@@ -32,3 +32,6 @@ Maui9 is made to be shared, within reason.
 
 ### Implementation License
 ✅ If an implementation is done by a registered Maui9 Partner, License fee is in the implementation price (see Corporate License).  
+
+## Accountability
+Maui9 & Lowcode NZ will are herby not accountable for any damanges that may occur by using this framework (mandatory self protection clause).
